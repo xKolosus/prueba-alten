@@ -1,8 +1,6 @@
 package com.inditex.trial.infrastructure.controller.response;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.inditex.trial.domain.model.Brand;
-import com.inditex.trial.domain.model.Product;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.time.LocalDateTime;
